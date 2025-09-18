@@ -1,7 +1,8 @@
 # VM Lifecycle on GCP and OCI — Tutorial
 
 ## Video
-Zoom: https://drive.google.com/file/d/1a0JDk7hYrqyQA15abj-mKeJyM0XpsHJu/view?usp=sharing
+Zoom for GCP: https://drive.google.com/file/d/1a0JDk7hYrqyQA15abj-mKeJyM0XpsHJu/view?usp=sharing
+Zoom for OCI: https://drive.google.com/file/d/18DmduO_HgzhINFy3sO4ldALEbRdk2XBV/view?usp=sharing
 
 
 ## Prereqs
